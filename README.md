@@ -9,3 +9,6 @@ FlatList must be used for listing. A two-column display similar to the one on th
 You can also get the JSON data you'll need below.
 
 Convenience:)
+
+https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/react-native/odev_1/figures/store_1.png
+https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/react-native/odev_1/figures/store_2.png
